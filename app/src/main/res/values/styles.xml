@@ -1,0 +1,8 @@
+<resources>
+
+    <!-- Base application theme. 必須要 no actionbar 不然會掛點 -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>
